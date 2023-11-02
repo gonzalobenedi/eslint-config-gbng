@@ -1,0 +1,40 @@
+{
+  "name": "eslint-config-gbng",
+  "version": "0.0.1",
+  "description": "These are settings for ESLint and Prettier used by me in Angular projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalobenedi/eslint-config-gbng.git"
+  },
+  "keywords": [
+    "eslint",
+    "angular",
+    "prettier"
+  ],
+  "author": "gonzalobenedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gonzalobenedi/eslint-config-gbng/issues"
+  },
+  "homepage": "https://github.com/gonzalobenedi/eslint-config-gbng#readme",
+  "peerDependencies": {
+    "eslint": "^8.52.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.0.3"
+  }
+}
