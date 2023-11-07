@@ -4,8 +4,7 @@ module.exports = {
     "eslint:recommended",
     "plugin:import/errors",
     "plugin:prettier/recommended",
-    "prettier/react",
   ],
-  plugins: ["react-hooks"],
+  plugins: [],
   rules: {},
 };
